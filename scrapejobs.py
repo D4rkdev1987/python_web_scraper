@@ -19,7 +19,7 @@ import datetime
 
 import login
 
-# pyinstaller --onefile --icon=app.ico scrapejobs.py
+
 
 class EasyApplyBot:
 
